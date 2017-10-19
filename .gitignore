@@ -1,0 +1,10 @@
+*.bak
+*.dwg
+*.dxf
+*.csv
+*.pdf
+*.swp
+*~
+build
+dist
+__pycache__
